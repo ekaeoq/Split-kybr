@@ -1,5 +1,2 @@
-# YoutubeMakingViktorWatches
-# postarija
-
-20.11.2024. overseass - KRIVO JE ROBU DEL V KOMBI...
-# Split-kybr
+# Make your own split keyboard
+# detailed blog: https://ekaeoq.github.io/project-writeups/split-keyboard-writeup.html
